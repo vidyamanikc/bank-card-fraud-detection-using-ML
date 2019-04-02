@@ -1,4 +1,4 @@
-# credit-card-fraud-detection
+# bank-card-fraud-detection
 The project is carried out by collecting and cleaning data followed by creating model to
 analyse data and finally visualizing it for better understand.
 • The machine learning algorithm such as Neural Networks are used to obtain the results.
